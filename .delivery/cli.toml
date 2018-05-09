@@ -1,7 +1,0 @@
-server = "gr-automate-b7pu.westeurope.cloudapp.azure.com"
-api_protocol = "https"
-user = "grinnovationlab-prod"
-enterprise = "Delivery"
-organization = "gresearch"
-git_port = "8989"
-pipeline = "master"
